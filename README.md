@@ -4,7 +4,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme)](https://github.com/AlwaysLoveme/github-readme-stats) -->
 
 <a href="https://github.com/AlwaysLoveme/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
+<img align="left" height="263" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" height="263" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight"/>
