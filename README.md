@@ -4,7 +4,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme)](https://github.com/AlwaysLoveme/github-readme-stats) -->
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
 <!--
 **AlwaysLoveme/AlwaysLoveme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
