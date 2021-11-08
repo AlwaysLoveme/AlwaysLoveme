@@ -4,10 +4,10 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme)](https://github.com/AlwaysLoveme/github-readme-stats) -->
 <p>
 <a href="https://github.com/AlwaysLoveme/github-readme-stats">
-<img align="left" width="100" height="223" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
+<img align="left" width="400" height="223" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" height="223" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight"/>
+<img align="left" width="600"  height="223" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight"/>
 </a>
   
   
