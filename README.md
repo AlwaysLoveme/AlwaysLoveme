@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlwaysLoveme&label=Profile%20views&color=0e75b6&style=flat" alt="yoyo930021" /> </p>
-<h2 align="center">Hi, I am zhuxian 👋<h2>
-<p align="center">A Front-end developer from ShangHai of China<p>
+<h1 align="center">Hi, I am zhuxian 👋<h1>
+<p align="center" style="font-size: 14px">A Front-end developer from ShangHai of ✨China✨<p>
 <p align="center">
   <a href="https://github.com/AlwaysLoveme/github-readme-stats">
     <img src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark"/>
