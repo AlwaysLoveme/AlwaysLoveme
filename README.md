@@ -23,8 +23,8 @@
 
 <!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysLoveme&repo=webpack5-template&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<p>
-  Here are some ideas to get you started:
+ 
+<!--  Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working in ShangHai
 - 🌱 I’m currently learning [React](https://zh-hans.reactjs.org/) [Vue3](https://v3.cn.vuejs.org/) [Capacitor](https://capacitorjs.com/)
@@ -34,6 +34,5 @@
 - 📫 How to reach me: z18270244870@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
- <p>
 
 
