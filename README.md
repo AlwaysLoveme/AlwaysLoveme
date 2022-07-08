@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlwaysLoveme&label=Profile%20views&color=0e75b6&style=flat" alt="yoyo930021" /> </p>
 <h2 align="center">Hi, I am zhuxian 👋<h2>
+<h4 align="center">A Front-end developer from ShangHai of China<h4>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark"/>
+  <a href="https://github.com/AlwaysLoveme/github-readme-stats">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark"/>
+  </a>
 </p>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme)](https://github.com/AlwaysLoveme/github-readme-stats)
 <p>
 <a href="https://github.com/AlwaysLoveme/github-readme-stats">
 <img align="left" width="270" height="223" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme" />
@@ -19,11 +19,11 @@
 
 
 
-<!-- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysLoveme&repo=webpack5-template&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![AlwaysLoveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight) -->
 
-<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlwaysLoveme&repo=webpack5-template&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![AlwaysLoveme's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight)
+
+
 **AlwaysLoveme/AlwaysLoveme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
