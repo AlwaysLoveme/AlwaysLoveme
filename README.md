@@ -1,4 +1,5 @@
 ### 前端攻城狮一枚 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlwaysLoveme&label=Profile%20views&color=0e75b6&style=flat" alt="yoyo930021" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
