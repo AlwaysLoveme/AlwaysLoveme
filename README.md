@@ -1,5 +1,6 @@
 ### 前端攻城狮一枚 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwaysLoveme)](https://github.com/AlwaysLoveme/github-readme-stats) -->
 <p>
