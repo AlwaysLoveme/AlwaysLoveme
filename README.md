@@ -2,14 +2,6 @@
 
 <h1 align="center">Hi, I am zhuxian 👋</h1>
 <h4 align="center">A Front-end developer from ShangHai of ✨China✨</h4>
-
-<p align="center">
-  <a href="https://github.com/AlwaysLoveme/github-readme-stats">
-    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark">
-  </a>
-</p>
-
-<h5>My Skills</h5>
 <p align="left">
   <img alt="React" src="https://img.shields.io/badge/React-516BEB?logo=react&logoColor=white&style=plastic">
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=plastic">
@@ -20,11 +12,19 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/Webpack-D18CE0?logo=webpack&logoColor=white&style=plastic">
   <img alt="Rollup" src="https://img.shields.io/badge/Rollup-EC4A3F?logo=rollup.js&logoColor=white&style=plastic">
-  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=plastic">
+<!--   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=plastic"> -->
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-219F94?logo=css3&logoColor=white&style=plastic">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic">
+<!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic"> -->
 </p>
+<p align="center">
+  <a href="https://github.com/AlwaysLoveme/github-readme-stats">
+    <img width="80%" src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark">
+  </a>
+</p>
+
+<!-- <h5>My Skills</h5> -->
+
 
 <!-- <p align="left">
  <a href="https://github.com/AlwaysLoveme/github-readme-stats">
