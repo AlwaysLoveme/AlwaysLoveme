@@ -6,6 +6,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-516BEB?logo=react&logoColor=white&style=plastic">
   <img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=plastic">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-65C18C?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAMAAAC7xnO3AAAAaVBMVEUAAABBuIM1Sl41SV5BuINBuINBuIM+mXhBuINBuIM9lHdBuINBuINBuINBuINBuINBuINBuIM2TWBBuIM1S181S181TF82TmA2UWE7fnBBuIM1SV42WGM/rH85b2o+n3o7fW88inM4ZmjZB8SxAAAAGnRSTlMAPuk/4sweFHxk/Zwx7rhKqYl3WNvFllcuQGHqQhUAAAFkSURBVEjH1JTZDoIwFEQHN9wXVBZl//+P1KRyh6Yw75633gxpmNNc/BcRKZYGxnBcRATXl7FfGBlIxvGe4SuiFU/1e+AZYyB+2rRmdBUBWx6b0kIJBhKblQ2jWwCbNc+tpR45HPnDZi2D6w2+7DioeGkKR8orKwZ37kfGJVlukf3qscm4HleDKEnU47jNlDRXzw0OUZKqBxAliXrM9pnzjiUlrKdj4BwD5HLipb3F+WHPK08XeBw8MyQ0coDPccrMpJEjPCaf78yDJcKMMqLNhEbuIMKMMiLMaCPKjDaizWgj2ow2os1oI+TumQmNCILF4m1Ygb9YghWi8BdLuEKILknVo5/vp506tgEAhIEYSEcQoqKG/cekTBHpJsAjvK2/5UIS53sQrPNNarDOF8E6XwVrMzBiMzJiMzBiMzBCMzBiJo3YDIyY4IXYDIyYrQsxk/N4JMxjgvN4JMxjxkKwpEdvnwf7OIUBGWUf8wAAAABJRU5ErkJggg==&logoColor=white&style=plastic">
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-867AE9?logo=ionic&logoColor=white&style=plastic">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=plastic">
   <img alt="NestJs" src="https://img.shields.io/badge/NestJs-ea2845?logo=nestjs&logoColor=white&style=plastic">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic">
