@@ -49,8 +49,8 @@
   </li>
   <li> 
     💬 Ask me about 
-    <a href="http://framework7.io/">Framework7</a>
-    <a href="https://ionicframework.com/">Ionic4+</a>
+    <a href="http://framework7.io/">Framework7</a> 、
+    <a href="https://ionicframework.com/">Ionic4+</a> 、
     <a href="https://v3.cn.vuejs.org/">Vue</a>
   </li>
   <li>
