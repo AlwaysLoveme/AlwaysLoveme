@@ -40,7 +40,7 @@
 <img align="left" width="600"  height="223" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight" />
 </a> 
 </p> -->
-<img src="./code.gif" width="40%" align="right">
+<img src="./code.gif" width="45%" align="right">
 
 <ul>
   <li> 🔭 I’m currently working in ShangHai</li>
