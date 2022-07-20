@@ -17,11 +17,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-219F94?logo=css3&logoColor=white&style=plastic">
 <!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic"> -->
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AlwaysLoveme/github-readme-stats">
     <img width="80%" src="https://github-profile-trophy.vercel.app/?username=AlwaysLoveme&theme=onedark">
   </a>
-</p>
+</p> -->
 
 <!-- <h5>My Skills</h5> -->
 
