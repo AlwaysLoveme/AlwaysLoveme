@@ -40,7 +40,7 @@
 <img align="left" width="600"  height="223" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight" />
 </a> 
 </p> -->
-<img src="./code.gif" width="43.4%" style="border-radius: 5px">
+
 
 <ul>
   <li> 🔭 I’m currently working in ShangHai</li>
@@ -60,7 +60,10 @@
     📫 How to reach me: z18270244870@gmail.com
   </li>
 </ul>
-
+<p>
+<img src="./code.gif" width="100%" style="border-radius: 5px">
+  
+</p>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight" />
 </a>  -->
