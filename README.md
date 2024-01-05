@@ -61,9 +61,9 @@
   </li>
 </ul>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlwaysLoveme&show_icons=true&theme=tokyonight" />
-</a> 
+</a>  -->
 <!-- <details>
     <summary>My Github Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
